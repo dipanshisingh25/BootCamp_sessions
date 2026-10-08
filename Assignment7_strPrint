@@ -1,0 +1,8 @@
+
+
+forn i in range(4):
+str = ""
+for j in range(6):
+str += ""
+
+print(str)
