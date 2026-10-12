@@ -1,16 +1,12 @@
-flowers = ["marigold","hibiscus","sunflower","lotus"]
-print(max(flowers))
 
 
 
 
 
 
-
-
-
-
-
+world = ["marigold", "hibiscus", "sunflower", "lotus"]
+longest_word = max(world,key=lambda world: len (world))
+print(longest_word)
 
 
 
