@@ -37,8 +37,15 @@
 #Write a nested loop that prints a simple grid of stars, for example, 
 # 4 rows of 6 stars each, using two for loops.
 
-num = 6 
-str = ""
-count = 0
-for i in range(num):
-    for j = i+1 in range
+# num = 6 
+# str = ""
+# count = 0
+# for i in range(num):
+
+
+
+    # for j = i+1 in range
+
+
+
+dairyFile = ()
